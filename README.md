@@ -1,2 +1,1 @@
-# tic-tac-toe
-# tic-tac-toe
+The goal of this repository is to simulate a game of tic-tac-toe between a two users.  It may be further modified to be played against the computer, but for the time being this will be a two person game.
